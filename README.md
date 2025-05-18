@@ -1,3 +1,1 @@
-
-Sample Java Applicaiton V3.2
-asd
+Sample Java Applicaiton V3.6.6
